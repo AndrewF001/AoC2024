@@ -3,9 +3,11 @@
 
 #include "DayClass.h"
 #include "Day1.h"
+#include "Day2.h"
 
 const std::vector<std::shared_ptr<DayClass>> days = { 
-	std::make_shared<Day1>()
+	std::make_shared<Day1>(),
+	std::make_shared<Day2>(),
 };
 
 int main() {

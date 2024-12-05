@@ -18,12 +18,21 @@
     <ClCompile Include="Aoc2024.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FileReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DayClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Day1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
